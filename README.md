@@ -1,4 +1,4 @@
-# u_and_i
+# 군 전역 계산기
 
 A new Flutter project.
 
